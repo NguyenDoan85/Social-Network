@@ -38,7 +38,7 @@
 
 ## Description 🔍
 
-- An application that used mysql database backend for an Social-Network site.
+- An application that used mongoose and mongoDB backend for an Social-Network site.
 
 ## User Story 💡
 
