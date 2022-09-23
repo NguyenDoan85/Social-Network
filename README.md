@@ -27,6 +27,7 @@
 - [Description](#description-🔍)
 - [User Story](#user-story-💡)
 - [Acceptance Criteria](#acceptance-criteria-🎯)
+- [Video Link](#video-link-🎞️)
 - [Installation](#installation-💾)
 - [Technologies](#technologies-🔧)
 - [Usage](#usage-💻)
@@ -57,6 +58,9 @@
 - THEN I am able to successfully create, update, and delete users and thoughts in my database
 - WHEN I test API POST and DELETE routes in Insomnia
 - THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
+
+## Video Link 🎞️
+![Video Link](https://drive.google.com/file/d/1l2S4v9Uu5HDOEoJTtlrNtV9EbJToWEf8/view)
 
 ## Installation 💾
 - Clone the repo and use command `npm install` to install all require packages. 
